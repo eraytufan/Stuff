@@ -4,9 +4,9 @@ public class Rot13 {
 	public static void main(String[] args) {
         
 		String str = "Shingeki no Kyojin";
-		 
-        System.out.println(encode(str, 13));
-        System.out.println(decode(encode(str, 13), 13));
+
+		System.out.println(encode(str, 13));
+		System.out.println(decode(encode(str, 13), 13));
 		
     }   
 	public static String decode(String text, int number) {
