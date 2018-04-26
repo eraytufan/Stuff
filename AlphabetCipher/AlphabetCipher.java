@@ -40,7 +40,7 @@ public class AlphabetCipher {
 	public static void main(String[] args) {
 		
 		AlphabetCipher alp = new AlphabetCipher();
-		System.out.println(alp.encrypt("bond", "theredfoxtrotsquietlyatmidnight"));
+		System.out.println(alp.encrypt("train", "murderontheorientexpress"));
 		System.out.println(alp.decrypt("python", "pjphmfamhrcaifxifvvfmzwqtmyswst"));
 	
 	}
