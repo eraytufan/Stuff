@@ -1,0 +1,19 @@
+Encrypt Inputs
+bond theredfoxtrotsquietlyatmidnight
+train murderontheorientexpress
+garden themolessnuckintothegardenlastnight
+
+Encrypt Outputs
+uvrufrsryherugdxjsgozogpjralhvg
+flrlrkfnbuxfrqrgkefckvsa
+zhvpsyksjqypqiewsgnexdvqkncdwgtixkx
+
+Decrypt Inputs
+cloak klatrgafedvtssdwywcyty
+python pjphmfamhrcaifxifvvfmzwqtmyswst
+moore rcfpsgfspiecbcc
+
+Decrypt Outputs
+iamtheprettiestunicorn
+alwayslookonthebrightsideoflife
+foryoureyesonly
